@@ -1,17 +1,17 @@
 # insta_task
 
-### App Developed Using Expo Framework
+## App Developed Using Expo Framework
 
 1-To Build The App For Android run the command 
-## expo build:android
+### expo build:android
 
 2-to Build The App For IOS run the command
-## expo build:ios
+### expo build:ios
 
 3-To run the App for Android type the command
-## npm run android
+### npm run android
 
 4-to run the App for IOS type the Command
 
-## npm run IOS
+### npm run IOS
 
