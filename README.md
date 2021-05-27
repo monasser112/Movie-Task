@@ -1,5 +1,7 @@
 # insta_task
 
+### App Developed Using Expo Framework
+
 1-To Build The App For Android run the command 
 ## expo build:android
 
